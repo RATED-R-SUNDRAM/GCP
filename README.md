@@ -10,7 +10,7 @@ To further esclate the cohesity among users and to provide scope for real time d
 <br/>
 NOTE : This project is yet to be deployed at the moment so please follow the steps in the "HOW TO RUN LOCALLY " section to run it locally on your system.
 
-## HOW TO USE 
+### PREREQUISITES TO RUN LOCALLY 
 
 
 ## HOW TO RUN LOCALLY 
@@ -36,3 +36,5 @@ NOTE : This project is yet to be deployed at the moment so please follow the ste
 * PODMAN CONTAINERS
 * BASH
 * Libraries for OT ( OPERATIONAL TRANSFORMATION)
+
+## TO KNOW MORE REFER TO THIS [PPT](https://docs.google.com/presentation/d/1swEnctdIqO-o6HL93Xx1libZsJMHsC9bXHB4LE6mqoM/edit?usp=sharing)
