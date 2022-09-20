@@ -23,7 +23,8 @@ NOTE : This project is yet to be deployed at the moment so please follow the ste
 * run the command npm start ( ENSURE THAT THE PORT WE HAVE ALLOCATED IS FREE ELSE USE A CUSTOM PORT USING npm start <#port> .
 * The landing page looks something like this ![alt-text](https://freeimage.host/i/iSFE3G)
 * Now if you want to create a link for others to join click on create link else enter the link and join the collaborative environment.
-* The coding environment looks like this ![image](
+* The coding environment looks like this ![image](https://freeimage.host/i/iSKKcG)
+* We also have chat box which can be dissolved if not in used else can be used to share texts or msgs ![image](https://freeimage.host/i/iSfJOQ).
 
 ## WHERE WE SEE IT'S USE CASES 
 * The best use cases for it can be people from an organization or from different backgrounds contributing and collaboarating remotely without the actual need for physical interactions.
