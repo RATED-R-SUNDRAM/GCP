@@ -20,7 +20,7 @@ NOTE : This project is yet to be deployed at the moment so please follow the ste
 ## HOW TO RUN LOCALLY 
 * Clone the repo locally and open in VSCOde or any other IDE.
 * run the command npm start ( ENSURE THAT THE PORT WE HAVE ALLOCATED IS FREE ELSE USE A CUSTOM PORT USING npm start <#port> .
-* The landing page looks something like this ![img](https://ibb.co/n81W8rF)
+* The landing page looks something like this ![img](https://postimg.cc/PPM3Hm33)
 
 
 ## WHERE WE SEE IT'S USE CASES 
