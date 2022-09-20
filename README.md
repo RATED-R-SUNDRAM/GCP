@@ -21,7 +21,7 @@ NOTE : This project is yet to be deployed at the moment so please follow the ste
 * Clone the repo locally and open in VSCOde or any other IDE.
 * Run createimage.sh to create the desired image to be used in the project.
 * run the command npm start ( ENSURE THAT THE PORT WE HAVE ALLOCATED IS FREE ELSE USE A CUSTOM PORT USING npm start <#port> .
-* The landing page looks something like this ![img](https://i.postimg.cc/28sP4G4D/Whats-App-Image-2022-09-15-at-2-26-40-AM.jpg)
+* The landing page looks something like this [![Whats-App-Image-2022-09-15-at-2-26-40-AM.jpg](https://i.postimg.cc/28sP4G4D/Whats-App-Image-2022-09-15-at-2-26-40-AM.jpg)](https://postimg.cc/PPM3Hm33)
 
 
 ## WHERE WE SEE IT'S USE CASES 
