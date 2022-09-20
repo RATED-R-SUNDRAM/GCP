@@ -21,8 +21,9 @@ NOTE : This project is yet to be deployed at the moment so please follow the ste
 * Clone the repo locally and open in VSCOde or any other IDE.
 * Run createimage.sh to create the desired image to be used in the project.
 * run the command npm start ( ENSURE THAT THE PORT WE HAVE ALLOCATED IS FREE ELSE USE A CUSTOM PORT USING npm start <#port> .
-* The landing page looks something like this ![image](https://i.postimg.cc/28sP4G4D/Whats-App-Image-2022-09-15-at-2-26-40-AM.jpg)
-
+* The landing page looks something like this ![https://i.postimg.cc/28sP4G4D/Whats-App-Image-2022-09-15-at-2-26-40-AM.jpg](https://freeimage.host/i/iSFE3G))
+* Now if you want to create a link for others to join click on create link else enter the link and join the collaborative environment.
+* The coding environment looks like this ![image](
 
 ## WHERE WE SEE IT'S USE CASES 
 * The best use cases for it can be people from an organization or from different backgrounds contributing and collaboarating remotely without the actual need for physical interactions.
