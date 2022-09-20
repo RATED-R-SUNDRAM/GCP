@@ -19,8 +19,9 @@ NOTE : This project is yet to be deployed at the moment so please follow the ste
 
 ## HOW TO RUN LOCALLY 
 * Clone the repo locally and open in VSCOde or any other IDE.
+* Run createimage.sh to create the desired image to be used in the project.
 * run the command npm start ( ENSURE THAT THE PORT WE HAVE ALLOCATED IS FREE ELSE USE A CUSTOM PORT USING npm start <#port> .
-* The landing page looks something like this ![img](https://postimg.cc/PPM3Hm33)
+* The landing page looks something like this ![img](https://i.postimg.cc/28sP4G4D/Whats-App-Image-2022-09-15-at-2-26-40-AM.jpg)
 
 
 ## WHERE WE SEE IT'S USE CASES 
@@ -47,14 +48,4 @@ The project uses Podman containers to run the user provided source files.
 * PODMAN CONTAINERS
 * BASH
 * Libraries for OT ( OPERATIONAL TRANSFORMATION)
-Make sure that you have docker installed. Run the `createimage.sh` script and it will create a podman image according to the commands given in the `Dockerfile` which will be used to create the podman containers.
 
-## TO KNOW MORE REFER TO THIS [PPT](https://docs.google.com/presentation/d/1swEnctdIqO-o6HL93Xx1libZsJMHsC9bXHB4LE6mqoM/edit?usp=sharing)
-### Run the Application
-
-The project is preconfigured with a simple development web server.
-
-The simplest way to start this server is:
-`npm start`
-
-- Open [http://localhost:9909](http://localhost:9909/) and take a look around.
