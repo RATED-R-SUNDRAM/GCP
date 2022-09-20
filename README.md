@@ -21,7 +21,7 @@ NOTE : This project is yet to be deployed at the moment so please follow the ste
 * Clone the repo locally and open in VSCOde or any other IDE.
 * Run createimage.sh to create the desired image to be used in the project.
 * run the command npm start ( ENSURE THAT THE PORT WE HAVE ALLOCATED IS FREE ELSE USE A CUSTOM PORT USING npm start <#port> .
-* The landing page looks something like this ![alt-text](https://freeimage.host/i/iSFE3G))
+* The landing page looks something like this ![alt-text](https://freeimage.host/i/iSFE3G)
 * Now if you want to create a link for others to join click on create link else enter the link and join the collaborative environment.
 * The coding environment looks like this ![image](
 
